@@ -1,0 +1,6 @@
+Agenda de Tareas
+1. sociales
+2. lenguaje
+3. fisica
+4. naturales
+5. computacion
